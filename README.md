@@ -37,7 +37,7 @@
     </p>
     
  <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SamFutuHus&show_icons=true alt=SamFutuHus /> </p>
- <p align="center"> <img src=https://starchart.cc/{SamFutuHus}/{repo}.svg alt=SamFutuHus /> </p>
+ <p align="center"> <img src=https://starchart.cc/SamFutuHus/{repo}.svg /> </p>
 
 <!---
 SamFutuHus/SamFutuHus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
