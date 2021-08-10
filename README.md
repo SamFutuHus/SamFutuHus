@@ -3,7 +3,7 @@
 <h3 align="center">Un jeune-adulte développeur de l'ile de la Réunion.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamFutuHus alt=SamFutuHus/> </p>
 
-<p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"> <img src="https://img.shields.io/twitter/follow/RealSamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> 
+<p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"> <img src="https://img.shields.io/twitter/follow/RealSamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> </br>
     <a href="https://github.com/"  target="blank"> <img src="https://img.shields.io/github/followers/SamFutuHus.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <!-- - 👨‍💻 Tous mes projets sont disponibles à [SamFutuHus](https://rahuldkjain.github.io) -->
 
-- 👨‍💻 Je suis sur un Système D'Exploitation Ubuntu <a href="https://ubuntu.com/" target="blank"><img src="hhttps://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+- 👨‍💻 Je suis sur un Système D'Exploitation <a href="https://ubuntu.com/" target="blank"> <img src="hhttps://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 
 - ⚡ Fait amusant **Être drôle est un choix, mais être sympa est mieux!**.
 
