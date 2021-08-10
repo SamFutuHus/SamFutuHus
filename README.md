@@ -12,15 +12,13 @@
 
 - 🌱 Je suis en train d'apprendre certaines langues de programmation, pas tous, mais ce que j'ai appris avec mon temps.
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
-- 💬 Demandez-moi **Html, Css, Node (Discord.js), Lua.**
+- 💬 Demandez-moi **Html, Css, Node (Discord.js), Lua**.
 
 - 📫 Comment me joindre, passé par mon email, ci-joint: **SammyFuturisticHusky@protonmail.com**
 
 <!-- - 👨‍💻 Tous mes projets sont disponibles à [SamFutuHus](https://rahuldkjain.github.io) -->
 
-- 👨‍💻 Je suis sur un Système D'Exploitation <a href="https://ubuntu.com/" target="blank"> <img src="hhttps://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+- 👨‍💻 Je suis sur un Système D'Exploitation <a href="https://ubuntu.com/" target="blank"> <img src="hhttps://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />.</a>
 
 - ⚡ Fait amusant **Être drôle est un choix, mais être sympa est mieux!**.
 
