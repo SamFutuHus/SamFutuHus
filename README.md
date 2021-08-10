@@ -3,7 +3,7 @@
 <h3 align="center">A young developer from Reunion.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamFutuHus alt=SamFutuHus/> </p>
 
-<p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"><img src="https://img.shields.io/twitter/follow/SamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"><img src="https://img.shields.io/twitter/follow/RealSamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> </p>
 
 
 - 🔭 Je suis intéresser par toutes sortes de développement à mes heures perdu !
