@@ -16,6 +16,8 @@
 
 - 📫 Comment me joindre, passé par mon email, ci-joint: **SammyFuturisticHusky@protonmail.com**
 
+<!-- - 👨‍💻 Tous mes projets sont disponibles à [SamFutuHus](https://rahuldkjain.github.io) -->
+
 - ⚡ Fait amusant **Être drôle est un choix, mais être sympa est mieux!**.
 
 
