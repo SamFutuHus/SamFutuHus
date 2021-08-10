@@ -3,7 +3,9 @@
 <h3 align="center">Un jeune-adulte développeur de l'ile de la Réunion.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamFutuHus alt=SamFutuHus/> </p>
 
-<p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"><img src="https://img.shields.io/twitter/follow/RealSamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"><img src="https://img.shields.io/twitter/follow/RealSamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> 
+    <a href="https://img.shields.io/github/followers/SamFutuHus.svg?style=social&label=Follow&maxAge=2592000"></a>
+</p>
 
 
 - 🔭 Je suis intéresser par toutes sortes de développement à mes heures perdu !
@@ -34,7 +36,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://www.lua.org/" target="_blank"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" width="40" height="40"/> </a>
     </p>
     
  <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SamFutuHus&show_icons=true alt=SamFutuHus /> </p>
