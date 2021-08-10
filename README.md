@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis SammyFuturisticHusky</h1>
 
-<h3 align="center">A young developer from Reunion.</h3>
+<h3 align="center">Un jeune-adulte développeur de l'ile de la Réunion.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=SamFutuHus alt=SamFutuHus/> </p>
 
 <p align="left"> <a href="https://twitter.com/SamFutuHus" target="blank"><img src="https://img.shields.io/twitter/follow/RealSamFutuHus?logo=twitter&style=for-the-badge" alt="SamFutuHus" /></a> </p>
@@ -15,8 +15,6 @@
 - 💬 Demandez-moi **Html, Css, Node (Discord.js), Lua.**
 
 - 📫 Comment me joindre, passé par mon email, ci-joint: **SammyFuturisticHusky@protonmail.com**
-
-- 👨‍💻 Tous mes projets sont disponibles à [SamFutuHus](https://rahuldkjain.github.io)
 
 - ⚡ Fait amusant **Être drôle est un choix, mais être sympa est mieux!**.
 
