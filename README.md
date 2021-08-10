@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis SammyFuturisticHusky</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<h3 align="center">A young developer from Reunion.</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=SamFutuHus alt=SamFutuHus/> </p>
 
 - 👀 Je suis intéresser par toutes sortes de développement à mes heures perdu !
 - 🌱 Je suis en train d'apprendre certaines langues de programmation, pas tous, mais ce que j'ai appris avec mon temps. 
