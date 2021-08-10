@@ -42,7 +42,8 @@
  <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=SamFutuHus&show_icons=true alt=SamFutuHus /> </p>
  <p align="center"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=SamFutuHus&theme=blue-green alt=SamFutuHus /> </p>
 
-<!---
-SamFutuHus/SamFutuHus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!--- 
+SamFutuHus/SamFutuHus est un dépôt ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
+Vous pouvez cliquer sur le lien Preview pour jeter un coup d'œil à vos modifications.
+Badges à ajouter: https://dev.to/envoy_/150-badges-for-github-pnk
 --->
