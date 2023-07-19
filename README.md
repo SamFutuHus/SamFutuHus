@@ -12,9 +12,9 @@
 
 - 🌱 Je suis en train d'apprendre certaines langues de programmation, pas tous, mais ce que j'ai appris avec mon temps.
 
-- 💬 Demandez-moi **Html, Css, Node (Discord.js), Lua**.
+- 💬 Demandez-moi **Html, Css, Js**.
 
-- 📫 Comment me joindre, passé par mon email, ci-joint: **SammyFuturisticHusky@protonmail.com**
+- 📫 Non disponible par E-Mail, pour le moment.
 
 <!-- - 👨‍💻 Tous mes projets sont disponibles à [SamFutuHus](https://rahuldkjain.github.io) -->
 
